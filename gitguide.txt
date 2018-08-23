@@ -9,7 +9,7 @@ commit:
 git commit -m "melding"
 
 push:    //upload
-git push master origin
+git push origin master
 
 reset:
 git reset --hard    //reset to Github
