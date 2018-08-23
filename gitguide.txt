@@ -1,0 +1,20 @@
+clone:
+git clone PASTE IN LINK
+
+add:
+git add FIL
+git add .     //alle
+
+commit:
+git commit -m "melding"
+
+push:    //upload
+git push master origin
+
+reset:
+git reset --hard    //reset to Github
+
+
+
+
+
